@@ -1,1 +1,2 @@
 Merge the Branch2 into main branch
+Branch1 -> some changes in file2
