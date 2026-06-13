@@ -1,1 +1,1 @@
-Branch2 git
+Merge the Branch2 into main branch
